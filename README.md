@@ -9,13 +9,13 @@ A “collateralized stablecoin” is a stablecoin that is entirely or almost ent
 ### Contract Address :
 
 ```
-0x61F57d519d585648746E2eAF98a882BcBcc4E72d
+0x30e33c00a409860a44360c51d269c706d71ead81
 ```
 
 ### BSCSCAN :
 
 ```
-https://bscscan.com/address/0x61f57d519d585648746e2eaf98a882bcbcc4e72d
+https://bscscan.com/address/0x30e33c00a409860a44360c51d269c706d71ead81
 ```
 
 ### Official Site :
