@@ -1,8 +1,8 @@
 # Laos Dollar ( LUSD )
 
-## Collateralized Stable Coin
+## Collateralized StableCoin
 
-A “collateralized stablecoin” is a stablecoin that is entirely or almost entirely backed by collateral held in a reserve. Notable examples of fully-collateralized stablecoins include USDT, USDC and DAI. The collateral is used to provide holders of the token with an opportunity to redeem the tokens for U.S. dollars or other assets that can then be used in the real world.
+A “Collateralized Stablecoin” is a stablecoin that is entirely or almost entirely backed by collateral held in a reserve. Notable examples of fully-collateralized stablecoins include USDT, USDC and DAI. The collateral is used to provide holders of the token with an opportunity to redeem the tokens for U.S. dollars or other assets that can then be used in the real world.
 
 ![LUSD Logo Small 01](https://user-images.githubusercontent.com/109957215/187412547-f39f1e64-2c15-4522-b105-0ab3a426ded6.png)
 
